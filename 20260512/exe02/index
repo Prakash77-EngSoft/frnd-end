@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS BASICO II</title>
+</head>
+<body>
+    <h1>JS BÁSICO II</h1>
+    <p>link JS externo</p>
+    <img src="css.png" width="270" height="100" />
+    <br></br>
+    <div id="exe02">
+        <h1>Ex02 - Cáculo de Média</h1>
+        <span>Digite os números separados por barra:</span>
+        <input id="valores" type="text" name="valores" />
+        <br></br>
+        <button>Calcula Meidia</button>
+        <br></br>
+        <p id="media">...</p>
+    </div>
+
+    <script src="./js/script1.js"></script>
+    <script src="./js/script2.js"></script>
+</body>
+</html>
